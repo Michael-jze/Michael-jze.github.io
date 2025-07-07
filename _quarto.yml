@@ -9,7 +9,8 @@ website:
         text: Home
       - href: content/blogs.qmd
         text: Blogs
-      - text: CV
+      - href: content/CV.pdf
+        text: CV
 
 format:
   html:
