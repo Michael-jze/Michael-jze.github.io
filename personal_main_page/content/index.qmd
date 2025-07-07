@@ -1,0 +1,61 @@
+---
+about:
+  template: solana
+  image: index.jpeg
+  links:
+    - text: jzengag@connect.ust.hk
+      href: mailto:jzengag@connect.ust.hk
+    - text: jzengag@hku.hk
+      href: mailto:jzengag@hku.hk
+    - icon: github
+      text: Github
+      href: https://github.com/Michael-jze
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/junyan-zeng-2ab22a1a4
+---
+
+# About Me
+
+I am Michael Junyan Zeng (曾俊焱) and graduated from The Hong Kong University of Science and Technology with a Bachelor of Science in Computer Science in July 2022.
+
+Previously, I have worked in Tencent and Meituan. I have experience in Backend Development, LLM Training and Big Data Processing.
+
+## Education
+
+- The Hong Kong University of Science and Technology (09/2018 - 07/2022)
+  - Bachelor of Science in Computer Science
+  - Awarded HKUST Entrance Scholarship (09/2018)
+
+## Industry Experiences
+
+- **Meituan (Beijing)** (08/2022 - Present)
+  - Position: Algorithm Engineering Back-end Development
+  - Led algorithm engineering projects in supply chain optimization and large-model training.
+  - Implemented system monitoring, caching, and circuit-breaking mechanisms for operational efficiency.
+- **Tencent (Shenzhen)** (06/2021 - 08/2021)
+  - Position: Management System Back-end Development (Intern)
+  - Ensured content compliance for network cloud platform audit system.
+
+## Project Experience
+
+- **MoE4xB/5xxB Model Training Efficiency Optimization** (02/2025 - Present)
+  - Assisted CUDA kernel developers in implementing the Swiglu FC2 Fuse solution.
+  - Utilized custom Torch functions, Expert Parallel, and Cuda Kernel Fuse technologies to optimize the training efficiency of the MoE4xB/5xxB model to reach an MFU of 30%, reducing training time and costs.
+- **Multi-Modal Large-Model Training and Deployment** (10/2024 - Present)
+  - Based on the pre-trained MoE6B/8xB LLM, supported the voice embedding, encoder, and adaptor structures for the multi-modal large-scale model.
+  - Achieved large-scale training on an 1K-card cluster using technologies such as Megatron Tensor Parallel, F1B2 Pipeline Parallel.
+  - Successfully launched the model for internal use, promoting its application in various business scenarios.
+- **Development and Optimization of Meituan's Text-to-Speech (TTS) Large-scale Model** (04/2024 - 10/2024)
+  - Supported the expansion of the TTS model structure from 500M parameters to 1.5B parameters.
+  - Utilized the Varlen Attention Llama structure and loss-masked DiT structure for efficient parameter expansion and large-scale model training.
+  - Processed the filtering and packaging operations of millions hours of PB level training data, significantly improving the performance of the TTS model.
+- **Decision-Making Service Data Acquisition** (12/2022 - 03/2023)
+  - Developed SQL-based heterogeneous data joint-query component using Calcite, integrating hive-spark, s3, and non-table data sources.
+
+## Research Experiences
+
+*(To be filled)*
+
+## Publications
+
+*(To be filled)*

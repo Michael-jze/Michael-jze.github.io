@@ -1,0 +1,10 @@
+---
+listing:
+  contents: blogs
+  type: table
+  sort:
+    - "date"
+    - "title desc"
+  table-striped: true
+  table-hover: true
+---

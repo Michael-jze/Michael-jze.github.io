@@ -13,7 +13,7 @@
 
   ```bash
   quarto publish gh-pages
-  git commit -am "mod" && git push
+  git add . && git commit -m "mod" && git push
   ```
 
   
