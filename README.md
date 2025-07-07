@@ -12,7 +12,7 @@
 - Project publish:
 
   ```bash
-  quarto publish gh-pages
+  cd personal_main_page && quarto publish gh-pages
   git add . && git commit -m "mod" && git push
   ```
 
